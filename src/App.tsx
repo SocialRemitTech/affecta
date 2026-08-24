@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div>
-      {/* <div className="hero-switcher" aria-label="Choose hero design">
+      <div className="hero-switcher" aria-label="Choose hero design">
         <span className="hero-switcher-label">Compare designs</span>
         {HEROES.map((h) => (
           <button
@@ -28,7 +28,7 @@ function App() {
             <small>{h.label}</small>
           </button>
         ))}
-      </div> */}
+      </div>
 
       <main className="site-shell">
         <div className="ambient-orb ambient-orb-one" />
