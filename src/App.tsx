@@ -67,7 +67,7 @@ function App() {
         <footer className="footer">
           <div className="footer-quote">“Where algorithmic finance ends,<br /><span>emotional finance begins.</span>”</div>
           <a className="email-link" href="mailto:hello@affecta.tech"><Mail size={17} /> hello@affecta.tech</a>
-          <span className="copyright">© 2026 Affecta Technologies Ltd.</span>
+          <span className="copyright">© 2026 Affecta Technology Ltd.</span>
         </footer>
       </main>
     </div>
