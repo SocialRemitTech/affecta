@@ -45,7 +45,7 @@ function App() {
             </span>
             <span className="brand-name">Affecta</span>
           </a>
-          <a className="nav-link" href="mailto:hello@affecta.tech">
+          <a className="nav-link" href="mailto:joseph@affecta.tech">
             Get in touch <ArrowUpRight size={15} strokeWidth={2.2} />
           </a>
         </nav>
@@ -92,7 +92,7 @@ function App() {
             {/* <span>emotional finance begins.</span>” */}
           </div>
           <a className="email-link" href="mailto:hello@affecta.tech">
-            <Mail size={17} /> joseph@affecta.tech
+            <Mail size={17} /> hello@affecta.tech
           </a>
           <span className="copyright">© 2026 Affecta Technology Ltd.</span>
         </footer>
