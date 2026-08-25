@@ -86,10 +86,10 @@ function App() {
 
         <footer className="footer">
           <div className="footer-quote">
-            Affecta Technology Ltd Registered in England and Wales Company
-            number 17402004 Registered office: 710 Crown House, London NW10 7PN
+            Affecta Technology Ltd Registered in England and Wales <br /> Company
+            number 17402004 <br /> Registered office: 710 Crown House, London NW10 7PN
             <br />
-            <span>emotional finance begins.</span>”
+            {/* <span>emotional finance begins.</span>” */}
           </div>
           <a className="email-link" href="mailto:hello@affecta.tech">
             <Mail size={17} /> joseph@affecta.tech
