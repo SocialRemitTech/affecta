@@ -92,7 +92,7 @@ function App() {
             {/* <span>emotional finance begins.</span>” */}
           </div>
           <a className="email-link" href="mailto:hello@affecta.tech">
-            <Mail size={17} /> hello@affecta.tech
+            <Mail size={17} /> hello@affecta.co.uk
           </a>
           <span className="copyright">© 2026 Affecta Technology Ltd.</span>
         </footer>
